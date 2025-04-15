@@ -7,6 +7,13 @@ Hello, my name is Leonardo.<br>I'm currently studying Information Systems at UES
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoSidrim/LeoSidrim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoSidrim/LeoSidrim/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/LeoSidrim/LeoSidrim/output/github-snake.svg" />
+</picture>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LeoSidrim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LeoSidrim&theme=dark&hide_border=false)<br/>
@@ -16,3 +23,4 @@ Hello, my name is Leonardo.<br>I'm currently studying Information Systems at UES
 [![](https://visitcount.itsvg.in/api?id=LeoSidrim&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
