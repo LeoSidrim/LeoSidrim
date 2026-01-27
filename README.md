@@ -1,18 +1,11 @@
 # ☕ About Me:
-Hello, my name is Leonardo.<br>I'm currently studying Information Systems at UESPI. <br>I've been studying Java and python. My goal is to become a Back-end Developer.
+Hello, my name is Leonardo.<br>I'm currently studying Information Systems at UESPI. <br>I've been studying python. My goal is to become a Back-end Developer.
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s1drim_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/leonardo-sidrim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leonardosidrim2005@gmail.com) 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoSidrim/LeoSidrim/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoSidrim/LeoSidrim/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LeoSidrim/LeoSidrim/output/github-snake.svg" />
-</picture>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LeoSidrim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
