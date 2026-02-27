@@ -1,5 +1,5 @@
 # ☕ About Me:
-Hello, my name is Leonardo.<br>I'm currently studying Information Systems at UESPI. <br>I've been studying python. My goal is to become a Back-end Developer.
+Hello, my name is Leonardo.<br>I'm currently studying Information Systems at UESPI. <br>I've been studying python.
 
 
 ## 🌐 Socials:
