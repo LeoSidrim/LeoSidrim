@@ -1,5 +1,5 @@
 # ☕ About Me:
-Hello, my name is Leonardo.<br>I am currently studying Information Systems at UESPI. <br>I am currently studying to become a full-stack developer.
+Hello, my name is Leonardo.<br>I am currently studying Information Systems at IFMA. <br>I am currently studying to become a full-stack developer.
 
 
 ## 🌐 Socials:
